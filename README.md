@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning at UET-VNU
-- - 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with Flutter
 
 
 [![Kim Bắp's GitHub status](https://github-readme-stats.vercel.app/api?username=kimbactran&show_icons=true&theme=gruvbox)](https://github.com/kimbactran/github-readme-stats)
